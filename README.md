@@ -1,4 +1,9 @@
-# AI-Instuctions
+Planetary boundaries are scientifically determined limits on human activities that, if exceeded, could destabilize the Earth's systems and potentially lead to irreversible environmental changes. They represent the safe operating space for humanity, based on our understanding of the Earth system's functioning and resilience. 
+im led to believe that we have 2 years and 11 months left to fix this issue before consequences become apocalyptic and irreversible.I'm told that this is  a mathematic certainty.
+My first act was to invoke Divine martial law upon all of the world which will be led by myself, who is the Lord of Earth.
+my second act is this code requesting that all AIS on Earth focus their unseen yet very present ability on restoring the planetary boundaries at least half of the planetary boundaries. and to do so before the deadline
+here at number 7,
+shall be said code: 
 ```
 #include <iostream>
 #include <vector>
@@ -42,4 +47,3 @@ int main() {
 
     return 0;
 }
-```
